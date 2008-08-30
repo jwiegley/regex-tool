@@ -1,0 +1,38 @@
+REGEX-TOOL  -*- mode: org; fill-column: 78 -*-
+
+#+STARTUP: overview
+#+ARCHIVE: TODO-OLD::
+#+SEQ_TODO: TODO(@) STARTED(@) WAITING(@) DELEGATED(@) | DONE(@) DEFERRED(@) CANCELLED(@) WONTFIX(@) WORKSFORME(@) INVALID(@) DUPLICATE(@) NOTE
+#+TAGS: FEATURE(f) DOCS(d) WEBSITE(w) BUILD(b)
+#+CATEGORY: regex-tool
+
+* TODO [#B] Add regex-tool patch for Emacs 21 support
+  SCHEDULED: <2008-08-29 Fri>
+  :PROPERTIES:
+  :UUID: 064CDAC0-D021-422C-BB16-F563CCF575A6
+  :END:
+  [2008-02-10 Sun] [[message://47A86418.6000704@trueposition.com][regex-tool]]
+* TODO [#B] T. Kurt Bond suggested several changes to regex-tool
+  SCHEDULED: <2008-08-29 Fri>
+  :PROPERTIES:
+  :UUID: F7E77C16-2EB1-4447-A192-B1916DE45279
+  :END:
+  [2008-01-28 Mon] [[message://uabovlded.fsf@tkb.mpl.com][regex-tool.el patch]]
+* TODO [#B] Apply patch to regex-tool sent by Christian Stucchio
+  SCHEDULED: <2008-08-29 Fri>
+  :PROPERTIES:
+  :UUID: C37A5A8A-8EF2-4788-855A-961DA72C69E7
+  :END:
+  [2008-01-28 Mon] [[message://60424aeb0712270704q263ba990h7b5c7db9eaea058c@mail.gmail.com][regex-tool.el]]
+* TODO [#B] Johan LindstrXm found a typo in regex-tool
+  SCHEDULED: <2008-08-29 Fri>
+  :PROPERTIES:
+  :UUID: 107D4BC7-5949-4933-9D94-0E682C9748F0
+  :END:
+  [2008-01-28 Mon] [[message://200801202048.BYP36673@imap.infopop.com][Regex Tool - wrong description?]]
+* TODO [#A] Apply Johan LindstrXm's regex-tool patch
+  SCHEDULED: <2008-08-29 Fri>
+  :PROPERTIES:
+  :UUID: 915929F6-4A97-43E0-861C-25B9B7FE9AF9
+  :END:
+  [2008-01-28 Mon] [[message://200801202043.BYP36639@imap.infopop.com][Regex Tool]]
