@@ -11,7 +11,7 @@ REGEX-TOOL  -*- mode: org; fill-column: 78 -*-
   [attached] to backport to emacs 21.
   :PROPERTIES:
   :Submitter: Mitchell Perilstein <mperilstein@trueposition.com>
-  :UUID: 064CDAC0-D021-422C-BB16-F563CCF575A6
+  :ID: 064CDAC0-D021-422C-BB16-F563CCF575A6
   :Attachments: remove-overlays.el
   :END:
   [2008-02-05 Tue]
@@ -31,7 +31,7 @@ REGEX-TOOL  -*- mode: org; fill-column: 78 -*-
      (Just look for the change to dotimes.)
   :PROPERTIES:
   :Submitter: T. Kurt Bond <tkb@tkb.mpl.com>
-  :UUID: F7E77C16-2EB1-4447-A192-B1916DE45279
+  :ID: F7E77C16-2EB1-4447-A192-B1916DE45279
   :Attachments: bond.patch
   :END:
   [2007-11-30 Fri]
@@ -41,7 +41,7 @@ REGEX-TOOL  -*- mode: org; fill-column: 78 -*-
   regexp.  This patch helped me [attached].
   :PROPERTIES:
   :Submitter: Marcin Bachry <hegel@op.pl>
-  :UUID: 597BF019-56C5-4C72-B13C-E8D8C930ADC5
+  :ID: 597BF019-56C5-4C72-B13C-E8D8C930ADC5
   :Attachments: guard-slash.patch
   :END:
   [2008-03-27 Thu]
@@ -56,7 +56,7 @@ REGEX-TOOL  -*- mode: org; fill-column: 78 -*-
   you like it.
   :PROPERTIES:
   :Submitter: Christian Stucchio <stucchio@cims.nyu.edu>
-  :UUID: C37A5A8A-8EF2-4788-855A-961DA72C69E7
+  :ID: C37A5A8A-8EF2-4788-855A-961DA72C69E7
   :Attachments: reuse-frame.patch
   :END:
   [2007-12-27 Thu]
@@ -71,7 +71,7 @@ REGEX-TOOL  -*- mode: org; fill-column: 78 -*-
   :END:
   :PROPERTIES:
   :Submitter: Johan LindstrXm <johanl@DarSerMan.com>
-  :UUID: 107D4BC7-5949-4933-9D94-0E682C9748F0
+  :ID: 107D4BC7-5949-4933-9D94-0E682C9748F0
   :END:
   [2008-01-20 Sun]
 * TODO [#A] Apply Johan LindstrXm's regex-tool patch			:ATTACH:
@@ -92,7 +92,7 @@ REGEX-TOOL  -*- mode: org; fill-column: 78 -*-
   incorporate it with your package.
   :PROPERTIES:
   :Submitter: Johan LindstrXm <johanl@DarSerMan.com>
-  :UUID: 915929F6-4A97-43E0-861C-25B9B7FE9AF9
+  :ID: 915929F6-4A97-43E0-861C-25B9B7FE9AF9
   :Attachments: regex-modifiers.patch
   :END:
   [2008-01-20 Sun]
