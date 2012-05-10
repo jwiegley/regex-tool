@@ -110,6 +110,7 @@ __DATA__
 (defvar regex-text-buffer nil)
 (defvar regex-group-buffer nil)
 
+;;;###autoload
 (defun regex-tool ()
   (interactive)
   (select-frame (make-frame-command))
