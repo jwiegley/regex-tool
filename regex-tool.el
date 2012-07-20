@@ -94,7 +94,9 @@ while ($line =~ m/%s/mg) {
   print \"(\", length($`), \" \", length($&), \" \";
   for $i (1 .. 20) {
     if ($$i) {
-      print \"(\", $i, \" . \\\"\", $$i, \"\\\") \";
+      my $group = $$i;
+      $group =~ s/([\\\\\"])/\\\\\\1/g;
+      print \"(\", $i, \" . \\\"\", $group, \"\\\") \";
     }
   }
   print \")\";
