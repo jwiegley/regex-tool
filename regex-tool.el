@@ -88,7 +88,7 @@ The `perl' backend talks to a perl subprocess to do the handling.\"
 (defun regex-render-perl (regex sample)
   (with-temp-buffer
     (insert (format "@lines = <DATA>;
-$line = join(\" \", @lines);
+$line = join(\"\", @lines);
 print \"(\";
 while ($line =~ m/%s/mg) {
   print \"(\", length($`), \" \", length($&), \" \";
