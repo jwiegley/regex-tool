@@ -1,4 +1,4 @@
-;;; regex-tool --- A regular expression evaluation tool for programmers
+;;; regex-tool.el --- A regular expression evaluation tool for programmers
 
 ;; Copyright (C) 2007 John Wiegley
 
@@ -192,4 +192,4 @@ __DATA__
 
 (provide 'regex-tool)
 
-;; regex-tool.el ends here
+;;; regex-tool.el ends here
