@@ -50,6 +50,8 @@
 ;; 1.1 - Don't die horribly if the user simply types '^' or '$'
 ;; 1.2 - Include cl.el at compile time
 
+;;; Code:
+
 (eval-when-compile
   (require 'cl))
 
